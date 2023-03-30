@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SCM-Result/static/css/main.87fb8e2b.css",
-    "main.js": "/SCM-Result/static/js/main.2635d026.js",
-    "index.html": "/SCM-Result/index.html",
-    "main.87fb8e2b.css.map": "/SCM-Result/static/css/main.87fb8e2b.css.map",
-    "main.2635d026.js.map": "/SCM-Result/static/js/main.2635d026.js.map"
+    "main.css": "/SCM-Fresh/static/css/main.87fb8e2b.css",
+    "main.js": "/SCM-Fresh/static/js/main.2635d026.js",
+    "index.html": "/SCM-Fresh/index.html",
+    "main.87fb8e2b.css.map": "/SCM-Fresh/static/css/main.87fb8e2b.css.map",
+    "main.2635d026.js.map": "/SCM-Fresh/static/js/main.2635d026.js.map"
   },
   "entrypoints": [
     "static/css/main.87fb8e2b.css",
